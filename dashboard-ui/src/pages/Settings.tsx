@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { FaUser, FaEnvelope } from 'react-icons/fa';
 
 const Settings: React.FC = () => {
-  const [name, setName] = useState('John Doe');
-  const [email, setEmail] = useState('john@example.com');
+  const [name, setName] = useState('');
+  const [email, setEmail] = useState('');
 
   const handleUpdate = () => {
     // Handle user details update
