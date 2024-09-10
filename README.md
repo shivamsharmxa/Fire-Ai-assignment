@@ -25,21 +25,25 @@ Installation
 Clone the repository:
 
 bash
+
 Copy code
+
 git clone https://github.com/shivamsharmxa/Fire-Ai-assignment.git
+
 Navigate to the project directory:
 
-bash
-Copy code
+
+
 cd dashboard-ui
+
 Install dependencies:
 
-bash
-Copy code
+
+
 npm install
 Start the development server:
 
-bash
-Copy code
+
 npm run dev
+
 Open http://localhost:3000 in your browser to view the project.
