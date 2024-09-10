@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/dashboard-ui.git
+git clone https://github.com/shivamsharmxa/Fire-Ai-assignment.git
 Navigate to the project directory:
 
 bash
